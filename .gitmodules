@@ -1,0 +1,6 @@
+[submodule "green-recorder"]
+	path = green-recorder
+	url = https://github.com/foss-project/green-recorder
+[submodule "pythonocc-core"]
+	path = pythonocc-core
+	url = https://github.com/tpaviot/pythonocc-core
